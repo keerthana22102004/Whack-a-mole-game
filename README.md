@@ -1,30 +1,30 @@
-WHACK-A-MOLE GAME
-OVERVIEW:
-Whack-a-Mole is a fun, interactive game built using Python and Pygame. The player uses a hammer to "whack" moles that randomly appear on a grid. The game also includes AI-driven moles and a golden mole for bonus points. The player competes against an AI with a randomly chosen reaction time, and both players aim to score as many points as possible within a fixed amount of time.
+Whack-a-Mole Game:
 
-FEATURES:
+Whack-a-Mole is a fun, interactive game built with Python and Pygame, where the player uses a hammer to "whack" moles that pop up randomly on the screen. Compete against an AI player, earn bonus points with golden moles, and enjoy a full-featured game experience with music, sound effects, and visual animations.
 
--> Grid layout with randomly appearing moles
+Features:
 
--> AI player with random reaction time
+🎯 Grid layout with randomly appearing moles
 
--> Golden mole that appears once for bonus points
+🤖 AI player with randomized reaction time
 
--> Sound effects for hits and background music
+🥇 Golden mole that appears once for bonus points
 
--> Ability to play again after a game over
+🔊 Sound effects for mole hits & background music
 
--> Scoreboard to show player and AI scores
+🔁 Replay option after game over
 
--> Visual effects for mole hits (red flash effect)
+🧮 Scoreboard to show Player vs AI scores
 
--> Responsive hammer cursor
+💥 Red flash effect when a mole is hit
 
-REQUIREMENTS:
-Before running the game, ensure you have the following installed:
+🔨 Responsive hammer cursor that follows the mouse
 
-->Python 3.x (preferably 3.6 or above)
+Make sure the following are installed:
 
-->Pygame (can be installed via pip)
-
-->Audio and image files (provided in the project directory)
+- **Python 3.x** (preferably 3.6 or above)
+- **Pygame**  
+  Install using pip:
+  ```bash
+  pip install pygame
+  
